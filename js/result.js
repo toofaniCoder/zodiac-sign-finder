@@ -1,5 +1,5 @@
-let zodiacSign = sessionStorage.getItem("zodiacSign");
-let zodiacDate = sessionStorage.getItem("zodiacDate");
+const zodiacSign = sessionStorage.getItem("zodiacSign");
+const zodiacDate = sessionStorage.getItem("zodiacDate");
 
 if (!zodiacSign) {
   location.href = "./index.html";
