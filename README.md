@@ -1,3 +1,4 @@
+![image info](./icons/aquarius.svg)
 ## Zodiac Signs (12)
 
 ```
