@@ -1,3 +1,6 @@
+![home page](./images/1.png)
+![home page](./images/2.png)
+
 ## Zodiac Signs (12)
 
 ```
